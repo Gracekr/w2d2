@@ -1,0 +1,39 @@
+h1{
+    color: rgb(83, 62, 30);
+    font-size: 3em;
+}
+.cursiv{
+    font-family: cursive;
+    font-size: 45px;
+    color: #200b22;
+}
+.geor{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: 300;
+    color: brown
+}
+.fant{
+    font-family: fantasy;
+}
+.weightlight{
+    font-weight: bold;
+    
+}
+.weight100{
+    font-weight: 100;
+}
+.variantsmallcaps{
+    font-variant: small-caps;
+}
+
+.alignright{
+    text-align: right;
+}
+.alignleft{
+    text-align: left;
+}
+.aligncenter{
+    text-align: center
+}
